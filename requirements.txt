@@ -1,0 +1,9 @@
+numpy
+pydantic
+python-dotenv
+streamlit
+langchain==0.1
+langsmith
+sentence-transformers
+faiss-cpu       
+n8n
